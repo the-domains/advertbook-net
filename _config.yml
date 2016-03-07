@@ -1,0 +1,28 @@
+name: advertbook.net
+favicon: null
+layout_spectrum: 0.25489219557493925
+typography_spectrum: 0.6992566913831979
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.4529379983432591
+  lightness: 0.5233854474499822
+  saturation: 0.7844311811495572
+  rhythmicContrast: 0.9225348327308893
+purpose: []
